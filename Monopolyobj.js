@@ -7,7 +7,7 @@
 //         this.name=name;
 //         this.position=position;
 //         this.money=money;
-//     }
+   }
 // rolldice()
 // {
     
